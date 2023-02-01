@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/OpenAI-Dalle-Clone/static/css/main.e8e3e46c.css",
+    "main.js": "/OpenAI-Dalle-Clone/static/js/main.3f46241f.js",
+    "static/js/787.f80030af.chunk.js": "/OpenAI-Dalle-Clone/static/js/787.f80030af.chunk.js",
+    "static/media/download.png": "/OpenAI-Dalle-Clone/static/media/download.7a98408b4ed6ea11bd06.png",
+    "static/media/logo.svg": "/OpenAI-Dalle-Clone/static/media/logo.a302dc07a7fb1f5992ec1f366e9ec578.svg",
+    "index.html": "/OpenAI-Dalle-Clone/index.html",
+    "main.e8e3e46c.css.map": "/OpenAI-Dalle-Clone/static/css/main.e8e3e46c.css.map",
+    "main.3f46241f.js.map": "/OpenAI-Dalle-Clone/static/js/main.3f46241f.js.map",
+    "787.f80030af.chunk.js.map": "/OpenAI-Dalle-Clone/static/js/787.f80030af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8e3e46c.css",
+    "static/js/main.3f46241f.js"
+  ]
+}
